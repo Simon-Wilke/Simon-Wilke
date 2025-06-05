@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Simon-Wilke
 - 👀 I’m interested in Design, UX, iOS, and Making Things!
-- 🌱 I’m currently learning React/SwiftUI
+- 🌱 I’m currently learning React/Swift
 - 💞️ I’m looking to collaborate on anything with AI!
 - 📫 How to reach me? Check my profile
 - ⚡ Fun fact: Badgers are known for their excellent sense of smell, second only to members of the dog family.
