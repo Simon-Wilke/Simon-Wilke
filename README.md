@@ -14,7 +14,7 @@
 
 ### Smartstash - Modern transaction tracking built for the next generation.
 
-![Smartstash - Download on iOS](https://drive.google.com/file/d/1RbwUQSH_CqzAYg5RMqREjPkLzRIcK4no/preview)
+![Smartstash - Download on iOS](https://drive.google.com/uc?export=view&id=1RbwUQSH_CqzAYg5RMqREjPkLzRIcK4no)
 
 
 
